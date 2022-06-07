@@ -9,9 +9,7 @@
 
 
 
-# Laravel 8 Vue3
-
-![alt text](https://github.com/AjayYadavAi/Laravel8Vuejs3/blob/main/image.png?raw=true)
+# Laravel 8 Vue3 Regular CRUD Operation Practice
 
 
 
